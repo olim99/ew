@@ -1,0 +1,66 @@
+{
+    "results": [
+      {
+        "gender": "male",
+        "name": {
+          "title": "Mr",
+          "first": "Dev",
+          "last": "Anand"
+        },
+        "location": {
+          "street": {
+            "number": 6307,
+            "name": "Carter Rd Promenade"
+          },
+          "city": "Thoothukudi",
+          "state": "Manipur",
+          "country": "India",
+          "postcode": 54698,
+          "coordinates": {
+            "latitude": "9.0674",
+            "longitude": "-110.7690"
+          },
+          "timezone": {
+            "offset": "-8:00",
+            "description": "Pacific Time (US & Canada)"
+          }
+        },
+        "email": "dev.anand@example.com",
+        "login": {
+          "uuid": "402a2e97-d2be-420d-95f9-8a2179b4ea31",
+          "username": "yellowmouse570",
+          "password": "francis",
+          "salt": "1iU4jaYZ",
+          "md5": "7e8f4edd8839ce05c09f0ae2f5551737",
+          "sha1": "9f7ba52142c52bdbede1c5e0ca0ea5a3932411b5",
+          "sha256": "9cc8f0d3b8f617d1759236c134d4ca6d0e5de83f5ad251acbbe5ac335e49382e"
+        },
+        "dob": {
+          "date": "1983-07-25T04:50:17.172Z",
+          "age": 41
+        },
+        "registered": {
+          "date": "2004-12-05T04:45:31.989Z",
+          "age": 20
+        },
+        "phone": "8673962165",
+        "cell": "8955563732",
+        "id": {
+          "name": "UIDAI",
+          "value": "339395411899"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/8.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/8.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/8.jpg"
+        },
+        "nat": "IN"
+      }
+    ],
+    "info": {
+      "seed": "fef2865e286c8cda",
+      "results": 1,
+      "page": 1,
+      "version": "1.4"
+    }
+  }
